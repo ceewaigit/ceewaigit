@@ -1,9 +1,13 @@
-# Hi there, I'm CeeWai 👋
+- # ceewai
 ![Ceewai Medium Banner Landscape](https://github.com/user-attachments/assets/0d6ba655-feae-427c-b34f-70499720d9eb)
 
-- i like coffee ☕️
-- i like taking photos 📷
-- i like reading 📖
+coffee. photos. books.
+
+## projects
+whatever i feel like making.
+
+## contact
+find me if you need me. my links are on my profile
 
 <!--
 **ceewaigit/ceewaigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
