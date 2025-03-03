@@ -1,4 +1,4 @@
-- # ceewai
+# ceewai
 ![Ceewai Medium Banner Landscape](https://github.com/user-attachments/assets/0d6ba655-feae-427c-b34f-70499720d9eb)
 
 coffee. photos. books.
